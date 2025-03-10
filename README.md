@@ -11,3 +11,8 @@ Mastering Splunk: Data Analytics and Security Monitoring
 ### Skills Learned
 - Configured forwarders, parse logs (syslog, JSON, CSV).
 - Visualized data with tables, charts, and maps.
+
+### Certificate of Completion
+- https://bit.ly/3XFYxCB
+### References
+- https://www.splunk.com/en_us/training.html
