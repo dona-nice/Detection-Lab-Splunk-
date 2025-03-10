@@ -16,3 +16,4 @@ Mastering Splunk: Data Analytics and Security Monitoring
 - https://bit.ly/3XFYxCB
 ### References
 - https://www.splunk.com/en_us/training.html
+- https://immersivelabs.online/upskill/roles
