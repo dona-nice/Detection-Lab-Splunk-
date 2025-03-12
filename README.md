@@ -1,4 +1,4 @@
-# Detection-Lab-Splunk
+# Splunk-Lab
 ### Title
 Mastering Splunk: Data Analytics and Security Monitoring
 ### Objective
